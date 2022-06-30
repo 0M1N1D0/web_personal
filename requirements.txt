@@ -1,0 +1,7 @@
+Django==4.0.5
+django-ckeditor-5==0.1.6
+Pillow==9.1.1
+pylint==2.14.3
+pylint-django==2.5.3
+pylint-celery==0.3
+
